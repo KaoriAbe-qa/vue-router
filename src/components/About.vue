@@ -1,8 +1,9 @@
 <template>
   <body>
   <div class="about">
-    <p>showMsg()：{{ showMsg() }}</p>
-    <p>msg：{{ msg }}</p>
+    <p>これはAboutのページです</p>
+    <p>showMsg()メソッドの表示確認：{{ showMsg() }}</p>
+    <p>msgの表示確認：{{ msg }}</p>
   </div>
   </body>  
 </template>
